@@ -6,5 +6,4 @@ Multi-Decoder DNN Model for High Accuracy Segmentation using Pseudo Depth-Map an
 |---|
 |[google drive](https://drive.google.com/drive/folders/1Txt8qXVgpuP3Os6RUpRt8-xlu7-viHmM?usp=drive_link)|
 ---
-
-`Download_PASCAL2012.py` 
+[학회포스터_김유진.pdf](https://github.com/user-attachments/files/16303196/_.pdf)
